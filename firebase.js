@@ -23,10 +23,10 @@ import {
 // The web config is public by design. Access is controlled by
 // Authentication + the Firestore rules in firestore.rules.
 const firebaseConfig = {
-  apiKey: 'AIzaSyDCA8AUHLCFgYqzT9W9kBTyM3b0QNzp0pCs',
+  apiKey: 'AIzaSyDCA8AUHLCFgYqzT9wgkBTyM3bQNzp0pCs',
   authDomain: 'live-360-6f7e6.firebaseapp.com',
   projectId: 'live-360-6f7e6',
-  storageBucket: 'live-360-6f7e6.appspot.com',
+  storageBucket: 'live-360-6f7e6.firebasestorage.app',
   messagingSenderId: '962411291266',
   appId: '1:962411291266:web:7a2f4126a65349b7100a9b',
 };
